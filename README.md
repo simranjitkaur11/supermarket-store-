@@ -1,5 +1,5 @@
 # MEGAMART
-# ONE MONTH PROJECT 
+# one month project
 # Day 1:
 Decided on the project idea: a supermarket store website named "MegaMart."Defined the main features and layout of the website.Installed necessary tools: VS Code, XAMPP, and GitHub for version control.Reviewed basic HTML and CSS concepts to prepare for the design phase.
 
